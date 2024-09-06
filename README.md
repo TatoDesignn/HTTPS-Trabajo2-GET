@@ -1,4 +1,4 @@
-## Peticiones HTTP 🖥️
+## Peticiones HTTP GET 🖥️
 <p align="center">
   <img style="width: 700px; height: auto;" src="https://github.com/TatoDesignn/Repositorios-Imagenes/blob/main/Http/act2.png">
 </p> 
